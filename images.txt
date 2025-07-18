@@ -1,6 +1,1 @@
---platform=linux/amd64 apolloconfig/apollo-adminservice:2.4.0
---platform=linux/arm64 apolloconfig/apollo-adminservice:2.4.0
---platform=linux/amd64 apolloconfig/apollo-portal:2.4.0
---platform=linux/arm64 apolloconfig/apollo-portal:2.4.0
---platform=linux/amd64 apolloconfig/apollo-configservice:2.4.0
---platform=linux/arm64 apolloconfig/apollo-configservice:2.4.0
+--platform=linux/amd64 golang:1.22
