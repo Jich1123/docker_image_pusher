@@ -1,1 +1,1 @@
---platform=linux/amd64 amazon/aws-cli
+--platform=linux/amd64 bitnami/kubectl
