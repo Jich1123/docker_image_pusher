@@ -1,1 +1,1 @@
---platform=linux/amd64 public.ecr.aws/aws-cli/aws-cli
+--platform=linux/amd64 lachlanevenson/k8s-kubectl
