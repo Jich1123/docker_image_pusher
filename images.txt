@@ -1,1 +1,3 @@
---platform=linux/amd64 ubuntu:22.04
+pgvector/pgvector:0.8.0-pg15
+redis:7.2-alpine
+minio/minio:latest
