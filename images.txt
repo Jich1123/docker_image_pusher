@@ -1,1 +1,1 @@
---platform=linux/amd64 lachlanevenson/k8s-kubectl
+--platform=linux/amd64 ubuntu:22.04
