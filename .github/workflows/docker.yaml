@@ -143,7 +143,7 @@ jobs:
             docker tag $image $new_image
             echo "docker push $new_image"
             docker push $new_image
-            echo "$new_image"
+            echo "registry.cn-hangzhou.aliyuncs.com/jichhub/$platform_prefix$name_space_prefix$image_name_tag"
             echo "开始清理磁盘空间"
             echo "=============================================================================="
             df -hT
