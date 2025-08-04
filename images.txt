@@ -1,1 +1,1 @@
-ghcr.io/labring/fastgpt-plugin:v0.1.5
+ghcr.io/labring/fastgpt-plugin:v0.1.7
