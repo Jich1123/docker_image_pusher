@@ -1,1 +1,1 @@
-node:12-buster
+node:12-bullseye
