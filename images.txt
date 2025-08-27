@@ -1,1 +1,1 @@
-minio/minio:latest
+node:12-buster
