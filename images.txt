@@ -1,1 +1,1 @@
-node:12-bullseye
+node:18-bullseye
