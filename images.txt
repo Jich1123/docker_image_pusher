@@ -1,1 +1,1 @@
-node:18-bullseye
+kafbat/kafka-ui:ff1376d
