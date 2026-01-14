@@ -1,1 +1,1 @@
-google/cadvisor:latest
+python:3.11.11-buster
