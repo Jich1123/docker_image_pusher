@@ -1,2 +1,1 @@
-ghcr.io/aquasecurity/trivy-java-db:1
-ghcr.io/aquasecurity/trivy-db:2
+amazoncorretto:8u472-al2023
