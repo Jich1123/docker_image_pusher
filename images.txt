@@ -1,2 +1,2 @@
-ghcr.io/aquasecurity/trivy-java-db
-ghcr.io/aquasecurity/trivy-db
+ghcr.io/aquasecurity/trivy-java-db:1
+ghcr.io/aquasecurity/trivy-db:2
