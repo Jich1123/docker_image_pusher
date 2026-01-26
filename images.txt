@@ -1,1 +1,2 @@
-aquasec/trivy:0.52.1
+amazoncorretto:8u462-al2023
+amazoncorretto:8-al2023
