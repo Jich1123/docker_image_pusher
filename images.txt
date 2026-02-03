@@ -1,1 +1,1 @@
-amazoncorretto:8u472-al2023
+gradle:8.10.2-jdk21-corretto-al2023
