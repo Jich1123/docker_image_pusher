@@ -1,1 +1,1 @@
-gradle:8.14.3-jdk21-corretto-al2023
+registry.gitlab.com/gitlab-org/terraform-images/stable:latest
