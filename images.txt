@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/terraform-images/stable:latest
+browserless/chrome
