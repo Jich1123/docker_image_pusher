@@ -1,1 +1,1 @@
-node:20-alpine
+ghcr.io/mlflow/mlflow:latest
