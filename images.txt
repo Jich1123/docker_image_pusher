@@ -1,1 +1,1 @@
-nginx:1.27-alpine
+nvidia/cuda:12.1.1-runtime-ubuntu22.04
