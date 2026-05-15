@@ -1,1 +1,6 @@
-nvidia/cuda:12.1.1-runtime-ubuntu22.04
+alpine:3.19
+golang:1.22-alpine
+nginx:alpine
+node:20-alpine
+redis:7-alpine
+mysql:8.0
