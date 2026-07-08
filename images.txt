@@ -1,2 +1,1 @@
-oliver006/redis_exporter:v1.67.0
-prom/mysqld-exporter:v0.16.0
+gradle:8.14.3-jdk17-corretto-al2023
