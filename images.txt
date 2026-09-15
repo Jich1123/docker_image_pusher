@@ -1,2 +1,1 @@
-public.ecr.aws/docker/library/python:3.11-slim
-ghcr.io/astral-sh/uv:0.9
+ubuntu/squid:6
